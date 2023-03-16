@@ -1,8 +1,14 @@
+import './style.css'
+import Navbar from './components/Navbar';
+
 
 function App() {
   return (
-    <div className="App">
-      helo
+    <div className="">
+
+    <Navbar></Navbar>
+
+
     </div>
   );
 }
